@@ -17,6 +17,7 @@ export default function Page() {
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
+            text from linux
           </p>
           <Link
             href="/login"
